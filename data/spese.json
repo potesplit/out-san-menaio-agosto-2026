@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "nome": "Gianluca",
+    "descrizione": "Spesa",
+    "importo": 44.75,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Martina",
+      "Salvo"
+    ],
+    "gruppoId": "gmsdeydi3u2zhny"
+  }
+]
