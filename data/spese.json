@@ -11,5 +11,17 @@
       "Salvo"
     ],
     "gruppoId": "gmsdeydi3u2zhny"
+  },
+  {
+    "nome": "Gianluca",
+    "descrizione": "Spesa alcool",
+    "importo": 26.1,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Salvo"
+    ],
+    "gruppoId": "gmsdezxcye2r1l0"
   }
 ]
