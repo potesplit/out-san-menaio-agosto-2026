@@ -36,5 +36,18 @@
       "Salvo"
     ],
     "gruppoId": "gmslsaept9a6n1o"
+  },
+  {
+    "nome": "Martina",
+    "descrizione": "Spesa mc",
+    "importo": 32,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Martina",
+      "Salvo"
+    ],
+    "gruppoId": "gmslsbq6m2eqzpa"
   }
 ]
