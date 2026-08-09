@@ -75,5 +75,18 @@
       "Salvo"
     ],
     "gruppoId": "gmslspmg9k5o3rw"
+  },
+  {
+    "nome": "Andrea",
+    "descrizione": "Spesa mortale",
+    "importo": 16.4,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Martina",
+      "Salvo"
+    ],
+    "gruppoId": "gmsm4vdozbe982j"
   }
 ]
