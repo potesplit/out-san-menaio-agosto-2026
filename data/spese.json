@@ -23,5 +23,18 @@
       "Salvo"
     ],
     "gruppoId": "gmsdezxcye2r1l0"
+  },
+  {
+    "nome": "Francesca",
+    "descrizione": "Spesa fra",
+    "importo": 15,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Martina",
+      "Salvo"
+    ],
+    "gruppoId": "gmslsaept9a6n1o"
   }
 ]
