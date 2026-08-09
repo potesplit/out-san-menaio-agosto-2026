@@ -49,5 +49,18 @@
       "Salvo"
     ],
     "gruppoId": "gmslsbq6m2eqzpa"
+  },
+  {
+    "nome": "Gianluca",
+    "descrizione": "Paposce di traverso",
+    "importo": 63.5,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Martina",
+      "Salvo"
+    ],
+    "gruppoId": "gmslsdtao3bc0ny"
   }
 ]
