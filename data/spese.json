@@ -62,5 +62,18 @@
       "Salvo"
     ],
     "gruppoId": "gmslsdtao3bc0ny"
+  },
+  {
+    "nome": "Gianluca",
+    "descrizione": "Casello andata",
+    "importo": 31.6,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Martina",
+      "Salvo"
+    ],
+    "gruppoId": "gmslspmg9k5o3rw"
   }
 ]
