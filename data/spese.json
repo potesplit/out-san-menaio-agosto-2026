@@ -88,5 +88,15 @@
       "Salvo"
     ],
     "gruppoId": "gmsm4vdozbe982j"
+  },
+  {
+    "nome": "Andrea",
+    "descrizione": "Crema",
+    "importo": 14.9,
+    "partecipanti": [
+      "Gianluca",
+      "Martina"
+    ],
+    "gruppoId": "gmsn3xgrrfmoxti"
   }
 ]
