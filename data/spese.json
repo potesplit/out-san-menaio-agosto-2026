@@ -120,5 +120,18 @@
       "Salvo"
     ],
     "gruppoId": "gmsol42zfelam3s"
+  },
+  {
+    "nome": "Gianluca",
+    "descrizione": "Ciccia",
+    "importo": 29,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Martina",
+      "Salvo"
+    ],
+    "gruppoId": "gmsorz6n7oi28ii"
   }
 ]
