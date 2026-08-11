@@ -107,5 +107,16 @@
       "Martina"
     ],
     "gruppoId": "gmsokuxx8m3o1p0"
+  },
+  {
+    "nome": "Martina",
+    "descrizione": "Colazione",
+    "importo": 9.5,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Martina"
+    ],
+    "gruppoId": "gmsokxfegkz7qmz"
   }
 ]
