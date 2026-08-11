@@ -98,5 +98,14 @@
       "Martina"
     ],
     "gruppoId": "gmsn3xgrrfmoxti"
+  },
+  {
+    "nome": "Andrea",
+    "descrizione": "Libro",
+    "importo": 9.5,
+    "partecipanti": [
+      "Martina"
+    ],
+    "gruppoId": "gmsokuxx8m3o1p0"
   }
 ]
