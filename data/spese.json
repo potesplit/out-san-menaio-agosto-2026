@@ -131,5 +131,18 @@
       "Salvo"
     ],
     "gruppoId": "gmsorz6n7oi28ii"
+  },
+  {
+    "nome": "Gianluca",
+    "descrizione": "Carne",
+    "importo": 45,
+    "partecipanti": [
+      "Andrea",
+      "Francesca",
+      "Gianluca",
+      "Martina",
+      "Salvo"
+    ],
+    "gruppoId": "gmudy63t23hji3u"
   }
 ]
